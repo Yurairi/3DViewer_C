@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img_src/3dv2.png</file>
+        <file>img_src/lox.gif</file>
+        <file>img_src/jopa_spit.gif</file>
+        <file>img_src/kot (1).gif</file>
+        <file>img_src/jopa_est (1).gif</file>
+    </qresource>
+</RCC>
